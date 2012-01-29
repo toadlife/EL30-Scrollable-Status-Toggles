@@ -1,0 +1,35 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: j30fXwMuyUNMD8CkhJNLiV/4i5U=
+Created-By: 1.6.0_26 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: feGRXurwKUJwZRTtIZrPI2LCrMo=
+
+Name: res/xml/power_widget.xml
+SHA1-Digest: WBVv7Pb2JrtWaMtahUGl/gjodbI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: D5mHYvlyD/ymmE0NbsC5VFVBLew=
+
+Name: res/layout-finger/order_power_widget_buttons_activity.xml
+SHA1-Digest: nHgVIqepSb1s3wW/jkb9tw4UsDg=
+
+Name: res/layout-finger/order_power_widget_button_list_item.xml
+SHA1-Digest: H4tbvs48yava5TM7eLe239bDZJk=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: K288PXMcnKcd9mYnt27ceDqaOos=
+
+Name: res/xml/settings.xml
+SHA1-Digest: +DbrxUJ1g75gTUVJcc0GKUcPgow=
+
+Name: res/drawable-hdpi-finger/ic_grabber.png
+SHA1-Digest: QXJxkNax86oEjF54fj8xKNDMq5E=
+
+Name: resources.arsc
+SHA1-Digest: lkhQfyEpOSRAX9vmOAi3f2EpKX4=
+
+Name: classes.dex
+SHA1-Digest: 8B4PAUbZL3M8haMFDIIPEY1bRxU=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: S6KJpcYgo7m7MHuk4lr/QNoLpt0=
+

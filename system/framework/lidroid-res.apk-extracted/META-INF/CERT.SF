@@ -1,0 +1,840 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: yv9j3Av5p7UpCk8oUzGXK1/enqk=
+
+Name: res/drawable-hdpi/jog_tab_target_green.png
+SHA1-Digest: MsmKJq0ZB38ZQvkqjXn4eodKNM4=
+
+Name: res/drawable-hdpi/jog_dial_bg_rev_down.png
+SHA1-Digest: yrvdgJmOkbzG0kMU3VLwrnvfMzs=
+
+Name: res/drawable-land-hdpi/zz_missed_txt_arrow.png
+SHA1-Digest: Rdmbe/FIbd4gnjBSLMQU3H+MNO4=
+
+Name: res/drawable-hdpi/zzz_unlock_arrow_0005.png
+SHA1-Digest: naqIx3Tsz4HLdmr39Gd/WOWh3a4=
+
+Name: res/drawable/preference_one_item.xml
+SHA1-Digest: 7wWFBVWtjw/vCZUmqiF9aMc/dCQ=
+
+Name: res/drawable-hdpi/settings_background_texture.png
+SHA1-Digest: KSnmGbCE+ccNR0+YHbm4yuiDBNc=
+
+Name: res/drawable-hdpi/jog_dial_dimple_dim_rev.png
+SHA1-Digest: GtkXOSqYfIenkB6eWedTahSGeeg=
+
+Name: res/drawable-hdpi/zz_unlock_missedcall_icon.png
+SHA1-Digest: tCqJyV5ceZAa+JEGZgu7psc0KcM=
+
+Name: res/drawable-hdpi/zzz_unlock_arrow_0006.png
+SHA1-Digest: EVsRO3vey9P+QK4pS1gJVPqOQtY=
+
+Name: res/drawable-hdpi/stat_screen_timeout_30s.png
+SHA1-Digest: hayGVlZsyBx9umcZObZcscDmDiM=
+
+Name: res/color/preference_primary_text.xml
+SHA1-Digest: LtUceHQYU+1eHeg2uDfuh8gv8i8=
+
+Name: res/drawable-hdpi/sweeplist_call_tab.png
+SHA1-Digest: ElVfusNKPCGi6p6C9CnXYCObLIQ=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_0_s.png
+SHA1-Digest: O5nrFyP0mxITHR6Hwhx/TtyJJhk=
+
+Name: res/drawable-hdpi/jog_tab_right_confirm_red.png
+SHA1-Digest: 2YdxHVw3LaDCrPSe8foMfjVxSt4=
+
+Name: res/drawable-hdpi/ic_preference_single_pressed.9.png
+SHA1-Digest: OgUx4l9sQn+ROW0q3cnBZiWXfH4=
+
+Name: res/drawable-hdpi/ic_jog_dial_vibrate_on.png
+SHA1-Digest: Ary+xmUg0S4MCHvrnOiye4MaksI=
+
+Name: res/anim/quickaction_above_exit.xml
+SHA1-Digest: XQjfBa+mTVDl3pFFsZJmJb5QRg4=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_9_s.png
+SHA1-Digest: isNSFX2A3SyJMb8f/Xx3bIcYjJc=
+
+Name: res/drawable-hdpi/stat_bg_ing.png
+SHA1-Digest: NQNXf1TgrTaJ9JienZZwgJwEPLA=
+
+Name: res/drawable-hdpi/ic_preference_first_normal.9.png
+SHA1-Digest: ovSrE+sLN9AIIhOXnOwLJD7y1ag=
+
+Name: res/drawable-hdpi/stat_bg_on.png
+SHA1-Digest: 5+G/LCVQy9UBpXZTwRc8X3CE++g=
+
+Name: res/drawable-hdpi/jog_tab_left_pressed.png
+SHA1-Digest: Bl1hY/njz4kphlWwcmVfyUWy/cU=
+
+Name: res/layout/zzz_keyguard_screen_glass_lock.xml
+SHA1-Digest: X7ouHDrDqjvyqmFIIviCejaHFQE=
+
+Name: res/drawable-hdpi/jog_tab_target_gray.png
+SHA1-Digest: Dx0cJV6m2se5fmrIZKxKfSckWQY=
+
+Name: res/layout/power_widget_layout.xml
+SHA1-Digest: GMPq0TNmAeH4TCp5iwE9qDWTB0I=
+
+Name: res/drawable-hdpi/ic_jog_dial_messaging.png
+SHA1-Digest: Senn/RmbVfPCtnf6zrabk6APbT4=
+
+Name: res/drawable-hdpi/quickaction_arrow_up.png
+SHA1-Digest: XMJNXnpLx/PR9hFbNENF6rPbTu4=
+
+Name: res/drawable-hdpi/zz_unlock_arrow_msg_es.png
+SHA1-Digest: nuLDEiplivt5G5XvxPgoNsDeyZs=
+
+Name: res/drawable-hdpi/zz_unlock_missedtxt_icon.png
+SHA1-Digest: t701p+rsH7DgfP5bWBfyTpXdqPQ=
+
+Name: res/drawable-hdpi/ic_launcher_android.png
+SHA1-Digest: UcBvjXhVjeMcDka3WrDs2lsQSMQ=
+
+Name: res/drawable-hdpi/zzz_unlock_textbg.9.png
+SHA1-Digest: fRNKaQ/hLxIh9Q62E5AfwUAR7jg=
+
+Name: res/drawable/jog_tab_left_unlock.xml
+SHA1-Digest: m0eImiT86umU4ICRnGRO8q7DeQU=
+
+Name: res/layout/preference.xml
+SHA1-Digest: JMq/9yVB8nkI6/SybJBIo5UPs+E=
+
+Name: res/drawable/jog_tab_bar_right_sound_off.xml
+SHA1-Digest: /FEqlK/BgB7Q4R2XeJ6Ii7ZghUI=
+
+Name: res/drawable-hdpi/btn_switch_on_disable.png
+SHA1-Digest: PjC26J6CQkSOhSBEfwkpL7FjuBY=
+
+Name: res/layout/zzz_keyguard_screen_samsung_clock_land.xml
+SHA1-Digest: FF0fxrc3F48ZzR0FB/i9JOKlOx8=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_noti_icon_email.png
+SHA1-Digest: ApRuls7I1PwWzhvl/DWG6T4Yy/k=
+
+Name: res/drawable-hdpi/jog_dial_arrow_long_right_red.png
+SHA1-Digest: kYghXnnrKJz3LfTVTMLsL8ugLjg=
+
+Name: res/drawable/jog_tab_right_generic.xml
+SHA1-Digest: I2Y+IWtGJbz6WtuXjWUs3mhdn2c=
+
+Name: res/drawable-hdpi/jog_tab_bar_right_end_confirm_yellow.9.png
+SHA1-Digest: kZ6UqNaOKOX5KLsj/1FfVgKXH9E=
+
+Name: res/drawable-hdpi/ic_jog_dial_answer.png
+SHA1-Digest: ToBoWIaQlVF5o7E1kU8gkPRpWpo=
+
+Name: res/layout/zzz_keyguard_screen_fascinate_lock.xml
+SHA1-Digest: 3/Y2dfuGByk4CbwEY8YAlsfUh0Y=
+
+Name: res/drawable-land-hdpi/zz_missed_call_arrow.png
+SHA1-Digest: Z1DUe9uPPuEVqJKCFYUc3F+SW58=
+
+Name: res/drawable-hdpi/stat_ing_off.png
+SHA1-Digest: /DfJW1xJBGMCtY0PW0bwF+xOW3A=
+
+Name: res/drawable/preference_item.xml
+SHA1-Digest: 21XQYcbh19syO7WG3I4LGXO/SGs=
+
+Name: res/drawable-hdpi/stat_reboot.png
+SHA1-Digest: B4W4AepbbdKzEIVol3ojOPxC6zw=
+
+Name: res/drawable/jog_tab_bar_right_sound_on.xml
+SHA1-Digest: x1kh6jUjslT1L4Ecf7h3HcBn8QY=
+
+Name: res/drawable-hdpi/stat_screen_timeout_unknown.png
+SHA1-Digest: qoNcQELJd2JMUZeJNIjt3UxZNUY=
+
+Name: res/drawable-hdpi/jog_tab_bar_right_end_confirm_gray.9.png
+SHA1-Digest: eJYKHPpUqs16zVnDrC3QFCGFDUo=
+
+Name: res/drawable-land-hdpi/jog_tab_left_confirm_green.png
+SHA1-Digest: CMoz03+qmFUcfIcU7Ii7J4712O4=
+
+Name: res/drawable-hdpi/stat_sync_on.png
+SHA1-Digest: BtJcBf02uT8/KR8SZUvmiTQIaAo=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_am_s.png
+SHA1-Digest: Su8T/mw0AG9rQ6FPE2D8B79P5hg=
+
+Name: res/drawable-hdpi/ic_lock_reboot.png
+SHA1-Digest: 8ZwmyGnSEmMfkmtCUx/Hskm5x+Q=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_4.png
+SHA1-Digest: DnLTbPkV3D2t8wNPXTWW2DEze5s=
+
+Name: res/drawable-hdpi/jog_tab_left_confirm_gray.png
+SHA1-Digest: VmV4DEEg3MJlc7P7EEIWxt5RHVw=
+
+Name: res/drawable-hdpi/jog_tab_right_pressed.png
+SHA1-Digest: gPOSL62SltzFISt2iUffIND7VX4=
+
+Name: res/drawable-hdpi/ic_lock_idle_charging.png
+SHA1-Digest: RAg2yIhSzlZmtUOnPj5O0nr1ky4=
+
+Name: res/drawable-hdpi/ic_jog_dial_custom.png
+SHA1-Digest: peRX/HHTDj1yGsi5lYQb0zumAaM=
+
+Name: res/drawable-hdpi/quickaction_arrow_down.png
+SHA1-Digest: T3+lZ7LAjfFh55iLC/GP/GLIZbk=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_1_s.png
+SHA1-Digest: MNZ4Pl87LqYjSOilnY4cpVlNOIg=
+
+Name: res/drawable-hdpi/jog_dial_dimple_rev.png
+SHA1-Digest: 1ND9jCSMeaFi6VFjGl0mV9axjfg=
+
+Name: res/drawable-hdpi/ic_lock_idle_alarm.png
+SHA1-Digest: o31uQOHTvgNOIVftmX61Rpqp67Q=
+
+Name: res/drawable-hdpi/stat_data_on.png
+SHA1-Digest: 7Y99Ut1aHmIjciLjJFkJUsL7sQw=
+
+Name: res/drawable-hdpi/ic_lock_idle_discharging.png
+SHA1-Digest: 9OjXWryIGKa22WmEiA8nlk2AQts=
+
+Name: res/drawable-land-hdpi/jog_tab_bar_right_end_confirm_yellow.9.pn
+ g
+SHA1-Digest: 77syJz8yOJenjQYizQ52caC6Odw=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_7_s.png
+SHA1-Digest: xplOoBuXuCVoBrKuFHZE6c11h08=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_bg.png
+SHA1-Digest: Iuh8+T7wSgJhxRIt8Qo86KFHLQU=
+
+Name: res/layout/zzz_keyguard_screen_puzzle_lock_land.xml
+SHA1-Digest: DzoLURLYyj48VbBQ+bMo1FdgFN0=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_bg_1_pressed.png
+SHA1-Digest: MYGLBKHfd2Itxd/EE/8kACtN/4Q=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_colon.png
+SHA1-Digest: pUz/oTsu1hpv1xMDCJREcnHEaBc=
+
+Name: res/drawable-hdpi/jog_tab_left_confirm_green.png
+SHA1-Digest: 5qwoLVotiL8ANSGJ9OkoVEU6YOc=
+
+Name: res/layout/zzz_keyguard_screen_fascinate_lock_land.xml
+SHA1-Digest: Tu4Mi89i+GzN25dpIBlZI9OyMos=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_2_s.png
+SHA1-Digest: 3mrbsVaMoVQcQ6oqe3HQTW6L9IM=
+
+Name: res/drawable-hdpi/stat_lock_screen_on.png
+SHA1-Digest: wODBd6+T4JP3g8EFVQPMBkNlIvE=
+
+Name: res/drawable-hdpi/ic_jog_dial_unlock.png
+SHA1-Digest: HLgcAYexuXyZmQlKNXAsGSsjIK8=
+
+Name: res/drawable/jog_tab_bar_right_generic.xml
+SHA1-Digest: D5WnqXGS9S8mrSxu2I1dkSpFFVU=
+
+Name: res/drawable/preference_checkbox.xml
+SHA1-Digest: 7MBXyjxh6naY1OAVW4FyXsdCznY=
+
+Name: res/drawable-hdpi/stat_brightness_on.png
+SHA1-Digest: gEbxcEm6AV/UTPtTQ/vhVv6gau8=
+
+Name: res/drawable-hdpi/jog_tab_bar_left_end_confirm_gray.9.png
+SHA1-Digest: gFE3op0s2ixsT/p8WfUHjeM2xQE=
+
+Name: res/drawable-hdpi/ic_lock_idle_low_battery.png
+SHA1-Digest: BVq3BfGrbSi7m0p6iGVf15meHbA=
+
+Name: res/drawable-hdpi/jog_dial_bg.png
+SHA1-Digest: olEHpPQeyadWXdSLNXdFyE1GAa8=
+
+Name: res/drawable-land-hdpi/jog_tab_bar_left_end_pressed.9.png
+SHA1-Digest: eR1Qv8r47kTz+/fnnPqeePyv99s=
+
+Name: res/drawable-hdpi/zz_event_arrow.png
+SHA1-Digest: e1xR78B8DrRCUVpYz8bw++ox9gM=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_1.png
+SHA1-Digest: 8YQZvjysOSXeYghx83NZtqo0vdM=
+
+Name: res/drawable-hdpi/jog_tab_bar_left_end_pressed.9.png
+SHA1-Digest: ZM9kRM3GzBBufI38/LhDYtLelpA=
+
+Name: res/layout/zzz_keyguard_screen_glass_lock_land.xml
+SHA1-Digest: gD4nQhY3lYvHfet3ebBFXHRBUO0=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_bg_land.png
+SHA1-Digest: ODpymGSYd+doSqKGRU7oARs1dco=
+
+Name: res/drawable-hdpi/zzz_unlock_arrow_0002.png
+SHA1-Digest: uQl4cTGzwnRzyNuH//F2uOvrTMU=
+
+Name: res/drawable-hdpi/stat_screen_timeout_15s.png
+SHA1-Digest: Rx1lLgDc0A/NMdISQa5T3eCIgzg=
+
+Name: res/drawable-land-hdpi/jog_tab_right_normal.png
+SHA1-Digest: 1WJPVxrXl8miGwyzKTCg7yZ7itI=
+
+Name: res/drawable-hdpi/zzz_unlock_blackbg_dual.9.png
+SHA1-Digest: GRTj9FX2xAkU5E40Q4i8N3sBrqo=
+
+Name: res/drawable/jog_tab_left_answer.xml
+SHA1-Digest: j3s8MDnfYrP1/OGobeERCxgjADQ=
+
+Name: res/drawable/jog_tab_bar_left_generic.xml
+SHA1-Digest: H0r7+3Xgn96yD4BUXqD/wP3Q3HY=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_0.png
+SHA1-Digest: QoHZo99VUg2SQns7DQ3+LpArptk=
+
+Name: res/drawable-land-hdpi/jog_tab_bar_right_end_normal.9.png
+SHA1-Digest: cXuHpicewt2fpel1/7SmZ7/4cFs=
+
+Name: res/drawable-hdpi/stat_shutdown.png
+SHA1-Digest: RK+INjSpte3i0Nr4WNUDO9yQYpE=
+
+Name: res/layout/preference_child.xml
+SHA1-Digest: MnE8rtdf36Me61RHdRuXpAMIe3I=
+
+Name: res/drawable-hdpi/btn_default_transparent_normal.9.png
+SHA1-Digest: guTkrCr2FmTsitIs4FOtoeKyNZs=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_5.png
+SHA1-Digest: exxjcpsUb00bPhN307XYnqr5A4A=
+
+Name: res/drawable-hdpi/jog_dial_dimple.png
+SHA1-Digest: bY4zfmeeCw/rYSP7vgvG7QGmny8=
+
+Name: res/drawable-hdpi/ic_preference_first_pressed.9.png
+SHA1-Digest: brwq81jqJL6cBaUZXDC0ZzSmQ04=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_6.png
+SHA1-Digest: 6DG/5DtjfEcmM1IacnE4mmJfjHU=
+
+Name: res/drawable-hdpi/stat_screen_timeout_2m.png
+SHA1-Digest: kq+U0aYzNJpozdXcLfRk1+gZHzI=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_am.png
+SHA1-Digest: k+XPcahK9wRxStcMjz6KrgrC1ik=
+
+Name: res/drawable/preference_single_item.xml
+SHA1-Digest: EbMuASmaN+amhlNr3RWwX39sSE8=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_noti_icon_email_fit.png
+SHA1-Digest: YJOBZjPVGxx+OiTrj57tFN6J2XU=
+
+Name: res/layout/zzz_keyguard_screen_epic_clock.xml
+SHA1-Digest: pAHJUg7Zk4EM3scCBwB1DX9zMUs=
+
+Name: res/drawable-land-hdpi/jog_tab_target_gray.png
+SHA1-Digest: Wewb/0ZJqe+3ERKcl72nyf398jI=
+
+Name: res/drawable-hdpi/ic_preference_pressed.9.png
+SHA1-Digest: VC6OQe+ySKMuXC4f9/8Wq3dCHFI=
+
+Name: res/drawable-hdpi/jog_tab_bar_right_end_confirm_red.9.png
+SHA1-Digest: 3R/F7GdqqvkrhhcmQkD9wnzWuak=
+
+Name: res/drawable-hdpi/stat_lock_screen_off.png
+SHA1-Digest: cHTtfjTcmOTkEpZzes8g9IQvT5I=
+
+Name: res/drawable-hdpi/ic_btn_round_more_disabled.png
+SHA1-Digest: RBGoo16d7zU3ZS74d63qnOCLVdQ=
+
+Name: res/drawable-hdpi/btn_switch_off.png
+SHA1-Digest: WpkZ26Ogg6HLnN6NC8vtEyxWtoQ=
+
+Name: res/drawable-hdpi/ic_lock_ringer_off.png
+SHA1-Digest: 0hua7bBDmxUIceW2VEm3DrD7zqc=
+
+Name: res/drawable/preference_last_item.xml
+SHA1-Digest: xijxVkHkt2d4gdLAiWrR8ReqqHw=
+
+Name: res/drawable-hdpi/stat_brightness_off.png
+SHA1-Digest: 2lmpuCER5LJzqWnTzFHnjelYlm0=
+
+Name: res/drawable-hdpi/zz_unlock_missed_event_bg.png
+SHA1-Digest: k6p240qgRhrfeFwRywC3m/XFJJs=
+
+Name: res/drawable-hdpi/quickaction_top_frame.9.png
+SHA1-Digest: Km8oiyMlZsItigumWHsuFGyyxHc=
+
+Name: res/drawable-hdpi/jog_tab_right_confirm_yellow.png
+SHA1-Digest: 6UsMzfnaSmuCWYTRIanR8htCMls=
+
+Name: res/drawable-land-hdpi/jog_tab_left_pressed.png
+SHA1-Digest: EE4i018/w0VZQ0mwqnQkkuaLLw0=
+
+Name: res/layout/preference_widget_checkbox.xml
+SHA1-Digest: Gi8ERuDlJs25x63ihM5ggYiDbMo=
+
+Name: res/drawable/jog_tab_bar_left_unlock.xml
+SHA1-Digest: dCqUeacqBJXy0nA/L3t2uvjX9cY=
+
+Name: res/layout/preference_information.xml
+SHA1-Digest: /VdnptkOziudt5ePBHlo6zVT4js=
+
+Name: res/drawable/jog_tab_bar_left_answer.xml
+SHA1-Digest: 3vPmAUk+af9FQb2AKQnVmuC+VDA=
+
+Name: res/drawable-hdpi/zzz_unlock_arrow_0007.png
+SHA1-Digest: 4sidKKPxkUBefeUTOi/iux6QEXE=
+
+Name: res/drawable-land-hdpi/jog_tab_target_yellow.png
+SHA1-Digest: tvabkX/DDnr/491W8vyzEbEVlSY=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_noti_icon_visual_voice_mail.
+ png
+SHA1-Digest: jpchC7U8WvRxoDh0vk5r3LwZ15s=
+
+Name: res/drawable-hdpi/ic_preference_last_normal.9.png
+SHA1-Digest: eMT0VObPHca8CQHjy732Q503wDw=
+
+Name: res/drawable-hdpi/zzz_unlock_icon_lock.png
+SHA1-Digest: oOyqXBbqgFJJ5fc9Q6hYW2L320w=
+
+Name: res/drawable-hdpi/jog_tab_right_confirm_gray.png
+SHA1-Digest: cghnksUtUvuDVcvoFSXOyHqqyfI=
+
+Name: res/drawable-land-hdpi/ic_jog_dial_sound_on.png
+SHA1-Digest: +aZLzArU8FBSaXrHuM6+wZ7FZ2I=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_7.png
+SHA1-Digest: GfzoCFioWBbpw+K0JrXm2PPZ+xU=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_noti_icon_mail_fit.png
+SHA1-Digest: eKNsM7grC6MVwZSfm5X3iMTbtk0=
+
+Name: res/drawable-hdpi/stat_bluetooth_off.png
+SHA1-Digest: m/DNKz+a+8Q4m90TrbW4E/Fnj1o=
+
+Name: res/layout/quickaction_item.xml
+SHA1-Digest: iKoh+dDKxHcxjpvCW9ppNA+F19E=
+
+Name: res/drawable-hdpi/stat_gps_on.png
+SHA1-Digest: 5n/UKgLcTQ23VCAO1mN2YZaS6gM=
+
+Name: res/drawable-hdpi/zzz_unlock_dualclock_bg.9.png
+SHA1-Digest: Xh4Ddz5tWKp0FtYdG5ZepvDL5GU=
+
+Name: res/layout/keyguard_screen_tab_unlock.xml
+SHA1-Digest: Yc1t4RSv0aL5N0/ETS7jAtxX6pc=
+
+Name: res/drawable-hdpi/zzz_unlock_arrow_0009.png
+SHA1-Digest: 0fC69V3wuosZUjHrR+qmf9zpfh0=
+
+Name: res/drawable-land-hdpi/jog_tab_bar_right_end_pressed.9.png
+SHA1-Digest: rHSSz/ZSJQ02Lb32gGWrtZQaOL4=
+
+Name: res/drawable-hdpi/stat_wifi_on.png
+SHA1-Digest: +OL9AjJlrEzZ20Rl8Uc+awbczJc=
+
+Name: res/layout/power_widget_button.xml
+SHA1-Digest: 226O79rLLNYzOiwmv25D3GtQjPs=
+
+Name: res/drawable-hdpi/zzz_unlock_blackbg.9.png
+SHA1-Digest: SvZxG/sdfipqn2pE3NecP4S9P84=
+
+Name: res/drawable-hdpi/stat_ring_vibrate_on.png
+SHA1-Digest: wH4oodH010SDWZO0PBsVaFBAJUw=
+
+Name: res/drawable-hdpi/zz_unlock_lockbg_press.png
+SHA1-Digest: IH/O2OOLPQc41IRw1liTRtG/7C0=
+
+Name: res/drawable-hdpi/stat_bg_off.png
+SHA1-Digest: hKsm8Vq2GWgRhjMMpgnBejVLBzU=
+
+Name: res/drawable-hdpi/ic_jog_dial_sound_off.png
+SHA1-Digest: NmxAbKv2trgYmVu62V3jYB8coSQ=
+
+Name: res/drawable/jog_tab_bar_right_decline.xml
+SHA1-Digest: XsCDqdUocPb/YUtbXmtegaw38VA=
+
+Name: res/drawable/jog_tab_right_decline.xml
+SHA1-Digest: U8/Zhmt43BguxAsISy7uScpA0ms=
+
+Name: res/drawable-hdpi/zz_missed_call_arrow.png
+SHA1-Digest: Zc6gWeNSB28p7Sac24/swlyj4v4=
+
+Name: res/drawable-land-hdpi/jog_tab_left_normal.png
+SHA1-Digest: EJLVhFyTHXM217drE34V9CIx+/Q=
+
+Name: res/drawable/jog_tab_right_sound_off.xml
+SHA1-Digest: MrdnwPAtzst7FrNGpxV3da3KJhA=
+
+Name: res/drawable-hdpi/stat_flashlight_on.png
+SHA1-Digest: zHFhmEd9VRwLMHEUBZDRDnfZpMY=
+
+Name: res/drawable-hdpi/jog_tab_bar_left_end_normal.9.png
+SHA1-Digest: 9WD7lozjwtwx2XBwVQ1JbJ1Px6o=
+
+Name: res/drawable-hdpi/ic_preference_top_pressed.9.png
+SHA1-Digest: l1AZnpj2+iUQi2BvKk4GNPpghUw=
+
+Name: res/drawable-hdpi/ic_btn_round_more_normal.png
+SHA1-Digest: aRCDhVu+Qu+9w7SMFfheEFs6yE4=
+
+Name: res/drawable-hdpi/zzz_unlock_arrow_0004.png
+SHA1-Digest: VOvKJQEoEGrvc/UXQk3S9OkmfFE=
+
+Name: res/drawable-hdpi/zzz_unlock_arrow_0008.png
+SHA1-Digest: z1BcouUuMM/JN9TkZzpr61tHsVQ=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_noti_icon_call.png
+SHA1-Digest: 2yQ46NdodXnk3hV1O/10ymhZtKk=
+
+Name: res/drawable-hdpi/stat_orientation_on.png
+SHA1-Digest: zoubprYuAndErYANfl7pey7TX60=
+
+Name: res/drawable-hdpi/ic_emergency.png
+SHA1-Digest: hm+tLCWkwUu/tHO5COEM1qKbzUo=
+
+Name: res/anim/quickaction.xml
+SHA1-Digest: qYR8+9pIaDSC20wsm3d9zYnvaV8=
+
+Name: res/layout/preference_dialog.xml
+SHA1-Digest: dnM0BZiLRFzrcSY1cfDsUA+bycs=
+
+Name: res/drawable-hdpi/stat_vibrate_on.png
+SHA1-Digest: jON95gX/LgHE6vOcv8B8msJV1K8=
+
+Name: res/drawable-hdpi/ic_preference_normal.9.png
+SHA1-Digest: q7sUjuC+t8S4PAM9yVpbwBxf/3o=
+
+Name: res/layout/zzz_keyguard_screen_samsung_dual_clock.xml
+SHA1-Digest: NYc2Cse4U2+DP772lSIST6c6VJ0=
+
+Name: res/layout/zzz_keyguard_screen_epic_lock_land.xml
+SHA1-Digest: DMEMWZrhWxM5ajoZhO5VHOCcS0U=
+
+Name: res/drawable-hdpi/stat_wifi_off.png
+SHA1-Digest: eBt3L+vMdN/MtgTlrTooDDml34I=
+
+Name: res/drawable-hdpi/zz_unlock_arrow_msg.png
+SHA1-Digest: h42NqOy1W9tmQiiHQD5mQpO1gfY=
+
+Name: res/drawable/settings_background.xml
+SHA1-Digest: 1q3Xbk5VC6UlvdCqiBgZFsfrPOQ=
+
+Name: resources.arsc
+SHA1-Digest: p08nV5B8+wpd3R94gVWfItrAG1w=
+
+Name: res/drawable-hdpi/zzz_unlock_lockbg.png
+SHA1-Digest: 5Z5AE5ua+qVZscBVHo0uCMA4RwM=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_8_s.png
+SHA1-Digest: DYHPxAePnZ1hIqQOYC5As+PfLMM=
+
+Name: res/drawable-hdpi/ic_jog_dial_sound_on.png
+SHA1-Digest: BEAoMt1owxv/+On6PVPnZ97SVJk=
+
+Name: res/layout/zzz_keyguard_screen_epic_clock_land.xml
+SHA1-Digest: Ami2cez6j7Y8Gofi1Zf4Vv2uyOg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: nZksmDQokP3JBzT97ciD+RQm+0U=
+
+Name: res/drawable-hdpi/zzz_glass_lock_effect.xml
+SHA1-Digest: bas1zsUmaNCbpilGpalnaiTeZlk=
+
+Name: res/drawable-hdpi/stat_screen_timeout_10m.png
+SHA1-Digest: o2w49GmAjL3c5GdWI1CZfOcZMOk=
+
+Name: res/drawable-hdpi/stat_orientation_off.png
+SHA1-Digest: PSrzkVmNNLuiqGq1D85zMDriI6k=
+
+Name: res/drawable-hdpi/zzz_unlock_arrow_0003.png
+SHA1-Digest: iwU8BCiijAU0yDVUsRefoqfIDig=
+
+Name: res/drawable-hdpi/quickaction_slider_grip_left.png
+SHA1-Digest: ZAn5JLpxKVj5SPDjiO3h22kI58U=
+
+Name: res/drawable-hdpi/ic_lock_ringer_on.png
+SHA1-Digest: WlmeBCePBjphKUHbIsbWUYRVqms=
+
+Name: res/drawable-hdpi/ic_preference_last_pressed.9.png
+SHA1-Digest: 1YTy+vj3xXyTT0E/UHWy13skKnE=
+
+Name: res/drawable-hdpi/btn_switch_off_disable.png
+SHA1-Digest: rXo0988bKWUIVgFJXsPdziVcEaw=
+
+Name: res/drawable-hdpi/btn_default_selected.9.png
+SHA1-Digest: pCM+sblyoqKJlnBvF/e+zoeiEeU=
+
+Name: res/drawable-land-hdpi/jog_tab_target_green.png
+SHA1-Digest: a1Zkagb8U4qIEta529Yk3k0Bxhk=
+
+Name: res/drawable-hdpi/msg.png
+SHA1-Digest: x+go9/gIaCJpq4QN3WTiq0bfC0g=
+
+Name: res/drawable-hdpi/zzz_unlock_arrow_0000.png
+SHA1-Digest: p4bdUr9gs9i1Sec77kERjppRiCc=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_pm.png
+SHA1-Digest: jQBsVNsDB3TWkIeWHHMXOkNeUEY=
+
+Name: res/drawable-hdpi/jog_tab_left_normal.png
+SHA1-Digest: ZfK22rUzbAvjQ58v1S9rHTkNMYo=
+
+Name: res/anim/quickaction_below_enter.xml
+SHA1-Digest: ClXTZtP0d6pRriBinCGgNJycQ5Y=
+
+Name: res/drawable-hdpi/jog_tab_bar_right_end_normal.9.png
+SHA1-Digest: sjQR5f/BQ1zkrfmuYCe6f3XBMzU=
+
+Name: res/drawable-hdpi/zzz_unlock_arrow_0001.png
+SHA1-Digest: 9gOJ26ydITLClZ8nnCm81AvW768=
+
+Name: res/drawable-hdpi/zz_unlock_icon_lock.png
+SHA1-Digest: P2rsFXPUxQ8Mici1W5uAjQx2hnA=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_3_s.png
+SHA1-Digest: U5Wqws/RdIinjv/DKfhj56MvjIw=
+
+Name: res/drawable-hdpi/stat_power_bg.png
+SHA1-Digest: IWq3pChm6gdeZDaXm/2RkKD8gZU=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_noti_icon_call_fit.png
+SHA1-Digest: 60wmyJXcE5O07IxhZN8rNCTPU1E=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_noti_icon_unlock_fit.png
+SHA1-Digest: Iekqho0zrn/1S9Q+CTWZ+7rsvgs=
+
+Name: res/drawable/preference_first_item.xml
+SHA1-Digest: gevj4e2eL+eTkHToB0HWaX9PLao=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_6_s.png
+SHA1-Digest: gdGNhN+sTqvwkFvCorwXlUB+Sag=
+
+Name: res/drawable-land-hdpi/ic_jog_dial_sound_off.png
+SHA1-Digest: UyDNlqMuAZ4ZktPbuueTXZwVGEQ=
+
+Name: res/drawable-hdpi/zz_missed_txt_arrow.png
+SHA1-Digest: aQPhUhuxpuGF4cZ1SPgmQSG+9Z8=
+
+Name: res/drawable-hdpi/stat_gps_off.png
+SHA1-Digest: 7cQl5m2BZ/pESXqu79lzBo9rwMY=
+
+Name: res/drawable-hdpi/stat_airplane_on.png
+SHA1-Digest: KX+cMy3xSiTqRX43WDAb4czuTvc=
+
+Name: res/drawable-hdpi/jog_dial_arrow_long_left_green.png
+SHA1-Digest: IF91LFyBtiTg5zVpS1bsq6vcxI8=
+
+Name: res/drawable-hdpi/jog_tab_right_normal.png
+SHA1-Digest: zgCt2XTzIQ+5TzXvE41ZDLMUncw=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_noti_icon_mail.png
+SHA1-Digest: V51XUdzY4YpS9cVZdmTjKSLKU5o=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_bg_1.png
+SHA1-Digest: kbx0vmIwUj5tf9OcByXcFx8usvw=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_bg_pressed.png
+SHA1-Digest: g9G4yOHojES4XBZ/Xfd+IBRRs1k=
+
+Name: res/drawable-hdpi/jog_dial_bg_rev.png
+SHA1-Digest: i+K0UrFstsyQuVok9XPbHGMBUtQ=
+
+Name: res/drawable/preference_top_item.xml
+SHA1-Digest: LcRiy1S1WqXfAed9xBs+pxgORVc=
+
+Name: res/drawable-hdpi/jog_tab_bar_right_end_pressed.9.png
+SHA1-Digest: Hf0o3PU4TWI1XjyDT+ZOsw8wLJ8=
+
+Name: res/drawable-hdpi/ic_preference_one_pressed.9.png
+SHA1-Digest: QmhmEA8lFOITsIIfnqBPez5a+6k=
+
+Name: res/drawable-hdpi/ic_jog_dial_answer_and_end.png
+SHA1-Digest: 49aD748nmvR2F8ogfH9tKKnX2pk=
+
+Name: res/drawable-hdpi/ic_preference_single_normal.9.png
+SHA1-Digest: 7VJ6kmgtKRSF9OoSe6R45Y6LpGU=
+
+Name: res/drawable-hdpi/jog_dial_dimple_dim.png
+SHA1-Digest: npzB4Xt+cSMtaJNfpVtNOfOAKrE=
+
+Name: res/drawable-hdpi/ic_preference_one_normal.9.png
+SHA1-Digest: NDNwi5lj/r2YovBFK3nsY/BMmXU=
+
+Name: res/drawable-land-hdpi/jog_tab_bar_right_end_confirm_gray.9.png
+SHA1-Digest: tgvasIkWWELLE0y4kdDF0gsPzQ4=
+
+Name: res/drawable-hdpi/stat_silent.png
+SHA1-Digest: KodW0F3TwQzqW3NVAykXRtu1g9Y=
+
+Name: res/layout/quickaction.xml
+SHA1-Digest: KE2b4HQCNw8ZXr2vxHZi80tAGHI=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_9.png
+SHA1-Digest: aAP0xbzLbO4UYGj3fA7/JsWkip4=
+
+Name: res/drawable-land-hdpi/jog_tab_left_confirm_gray.png
+SHA1-Digest: Kv4OGwMRcYqqwHF5zt4wfH1ldAk=
+
+Name: res/anim/quickaction_above_enter.xml
+SHA1-Digest: MoTz+SoI6a/AVDIB6qdj70tDyoE=
+
+Name: res/drawable-hdpi/btn_switch_on.png
+SHA1-Digest: 2WB11T85rLyQF1GJi2ap0Xek35g=
+
+Name: res/drawable-hdpi/zz_unlock_arrow.png
+SHA1-Digest: WCsL6etdzflI6tlwlnoEjDk2Cwo=
+
+Name: res/drawable-hdpi/quickaction_slider_background.png
+SHA1-Digest: mpMWVH6KoETuHHuk/RqBOM0ExXU=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_4_s.png
+SHA1-Digest: Ha+3IbImUVboGrrBSCK9vo1Ffds=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_2.png
+SHA1-Digest: P8lrhzZbfgj2qbElbr9Vjo/+8Zc=
+
+Name: res/drawable-hdpi/sweeplist_message_tab.png
+SHA1-Digest: iyFEz75lNjKS5F+AIXHkjdT0DO0=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_5_s.png
+SHA1-Digest: b7w4aBjpGLcMY7OrIcZWkcVkpdE=
+
+Name: res/drawable-hdpi/zz_unlock_lockbg.png
+SHA1-Digest: oUTPe6bpv7lhDyv9h/1EwxlK0yM=
+
+Name: res/drawable-hdpi/zzz_unlock_clockbg.9.png
+SHA1-Digest: GSNZscoSwQcTSO9Szn3/D74AK28=
+
+Name: res/drawable-land-hdpi/jog_tab_right_pressed.png
+SHA1-Digest: x5wecxK1DwFZOf7r1qBCXc+Yu/Q=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_3.png
+SHA1-Digest: 2CmO8/sb4JjKwh+gVWjqYaJ11mU=
+
+Name: res/drawable-hdpi/stat_vibrate_off.png
+SHA1-Digest: CjSXB+cKbE7CGMywuhdi0O4CiXc=
+
+Name: res/drawable-hdpi/quickaction_bottom_frame.9.png
+SHA1-Digest: 473t5jKvVCJRq64DFG4XeCRZVJ8=
+
+Name: res/drawable/btn_default_transparent.xml
+SHA1-Digest: 9T35F3glksngWwX/UZidYMYYalY=
+
+Name: res/layout/preference_list_content.xml
+SHA1-Digest: aLE3pdZJk5p54S2QlnGF+lOGvj0=
+
+Name: res/layout/power_widget_scrollview.xml
+SHA1-Digest: wmeNcg91JeXcMWg/vp7vindsTdA=
+
+Name: res/drawable-hdpi/stat_brightness_auto.png
+SHA1-Digest: 9vjs4rwbx//YNfM05WWhXchcPss=
+
+Name: res/drawable-land-hdpi/jog_tab_bar_left_end_confirm_green.9.png
+SHA1-Digest: 2t3syPBJbAhXMkvkm1l5PvKAefs=
+
+Name: res/drawable-hdpi/quickaction_slider_grip_right.png
+SHA1-Digest: uQ7bQfiGH+VySczqRbKrH+Uu6+w=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_8.png
+SHA1-Digest: iSJ2Pw5SZd/vZgbd0e+UfD8IXd8=
+
+Name: res/anim/quickaction_below_exit.xml
+SHA1-Digest: y7TAPo9Z8UI5vRxZlIzdNDNdSrY=
+
+Name: res/layout/zzz_keyguard_screen_samsung_clock.xml
+SHA1-Digest: cerdn/7hH7EGUEc82SXE7PGiBPY=
+
+Name: res/drawable-land-hdpi/jog_tab_bar_left_end_confirm_gray.9.png
+SHA1-Digest: 0ftDm3DkYtmbR0j3Rc2FyTCipAQ=
+
+Name: res/drawable-hdpi/jog_tab_target_yellow.png
+SHA1-Digest: ouxd3UtV46W30BnSOgaR1hYpV1k=
+
+Name: res/drawable-hdpi/zzz_unlock_puzzle_noti_icon_unlock.png
+SHA1-Digest: 9o0nJ/HgXM6/JYzTADUfZRm5u5c=
+
+Name: res/drawable-land-hdpi/zz_unlock_missed_event_bg.png
+SHA1-Digest: Vep0k38RQY8+3gatdTkPfqgtjCs=
+
+Name: res/layout/zzz_keyguard_screen_epic_lock.xml
+SHA1-Digest: t74mXPAuQagUet1wcFoGNC7MC3Q=
+
+Name: res/drawable/ic_btn_round_more.xml
+SHA1-Digest: lQ7iQRDuFrqytuOxIwz+mrezwH0=
+
+Name: res/layout/preference_category.xml
+SHA1-Digest: kiT2yjvyRLq40qnBqJmwOu/DDek=
+
+Name: res/drawable-hdpi/stat_ring_on.png
+SHA1-Digest: j9rGvIGiVbW5mZAMnig14bFSo38=
+
+Name: res/drawable-hdpi/stat_airplane_off.png
+SHA1-Digest: UThhI4I5gFLGUcI59OGZfOPJKXA=
+
+Name: res/drawable-hdpi/jog_dial_arrow_short_left_and_right.png
+SHA1-Digest: F/O+zcSsB3wqFNAK6yTsiDBNplQ=
+
+Name: res/drawable-hdpi/stat_flashlight_off.png
+SHA1-Digest: qibRha141OqBhf0/7U6g+2lmM2I=
+
+Name: res/drawable-land-hdpi/jog_tab_bar_left_end_normal.9.png
+SHA1-Digest: VHCRjFt1fRmcN1q29pwuYy/osmQ=
+
+Name: res/drawable-hdpi/stat_sync_off.png
+SHA1-Digest: sKffNPS1TI+/PX5XIG9EvlACDio=
+
+Name: res/drawable-land-hdpi/sweeplist_message_tab.png
+SHA1-Digest: FRcgN4qpCJ/K1usscz2I/8OqF/g=
+
+Name: res/drawable/jog_tab_left_generic.xml
+SHA1-Digest: DB6Nwbyv4F83oO6XORiiWg+vmuA=
+
+Name: res/drawable-hdpi/stat_bluetooth_on.png
+SHA1-Digest: oZu8AFp2bMhnVBw8Say88oWOoVw=
+
+Name: res/drawable-hdpi/jog_tab_bar_left_end_confirm_green.9.png
+SHA1-Digest: 1cPQfhVSpAMsNIvCUQtPVZF4Ajo=
+
+Name: res/drawable-land-hdpi/jog_tab_right_confirm_gray.png
+SHA1-Digest: +dnJDy3TtwVjoV5aO6jeNeTI4tU=
+
+Name: res/layout/zzz_keyguard_screen_puzzle_lock.xml
+SHA1-Digest: PCTjxTqr3NJp77HGUesmlTL2pG4=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_pm_s.png
+SHA1-Digest: NW/MYYzsLbBA9EweAG+R6I5iiAw=
+
+Name: res/drawable-hdpi/ic_dialog_alert.png
+SHA1-Digest: EuiU5J8mRX3DWeNGz6f/l1b4hHc=
+
+Name: res/drawable-hdpi/stat_screen_timeout_1m.png
+SHA1-Digest: Pjycpg6o7B2JCT0LEjuocUagSGE=
+
+Name: res/drawable-land-hdpi/sweeplist_call_tab.png
+SHA1-Digest: Dt6/L9/oc/g50w0bWarir/Gigk0=
+
+Name: res/layout/keyguard_screen_tab_unlock_land.xml
+SHA1-Digest: e+MCVoPqdwxsBglTGRkCaf5Xkq0=
+
+Name: res/drawable-hdpi/lense_square_bg.png
+SHA1-Digest: d4q1okMU6sCbY4UUOKanjmxyKs0=
+
+Name: res/drawable-hdpi/stat_brightness_mid.png
+SHA1-Digest: VvhPhHjs1ek92KmW3FS77dPwodc=
+
+Name: res/drawable/jog_tab_right_sound_on.xml
+SHA1-Digest: 4FacSpnnJRLOTp3oyEu6DiRHec4=
+
+Name: res/drawable-hdpi/ic_preference_top_normal.9.png
+SHA1-Digest: 1kvDbh1EKFokWt5N2PTDFfFoSaU=
+
+Name: res/drawable-hdpi/jog_dial_arrow_short_down_green.png
+SHA1-Digest: d6FFVFqaNieBeHVTurECb2Aj2zk=
+
+Name: res/drawable-land-hdpi/jog_tab_right_confirm_yellow.png
+SHA1-Digest: cujsrhbW3XCrJpp7nGduSzciRQg=
+
+Name: res/drawable-hdpi/stat_data_off.png
+SHA1-Digest: QTDdIIJHFijieqNe58EwdtNzEnE=
+
+Name: res/drawable-hdpi/btn_default_pressed.9.png
+SHA1-Digest: vd9kBClnyIz7ji2RlbSZiVsL14U=
+
+Name: res/drawable-hdpi/zzz_unlock_clock_colon_s.png
+SHA1-Digest: YerbYIe8m9DVBPemyC/LAj6JLFU=
+

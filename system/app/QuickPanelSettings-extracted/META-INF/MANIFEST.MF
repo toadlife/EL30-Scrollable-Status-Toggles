@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_26 (Sun Microsystems Inc.)
+
+Name: res/layout-finger/order_power_widget_buttons_activity.xml
+SHA1-Digest: Zk6g5Dk3ntP7Ph3gcQwjkmdDizM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: EyBLfsO7gN1Sz2R8jlEsulwvzEQ=
+
+Name: res/xml/power_widget.xml
+SHA1-Digest: PVAYH1y414eQXbnfr4BqAlmWKGc=
+
+Name: res/layout-finger/order_power_widget_button_list_item.xml
+SHA1-Digest: bqj08fQx6gNnaX/ni01Ol5XdBBA=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: IU4wcAQpIlfMKKq6p6xTzhZxRQ0=
+
+Name: res/drawable-hdpi-finger/ic_grabber.png
+SHA1-Digest: ydOQVKNmK//lP4tfwykpdXlNt9s=
+
+Name: res/xml/settings.xml
+SHA1-Digest: CSelWm1n3qRpeAM4529ca6QxONQ=
+
+Name: resources.arsc
+SHA1-Digest: iLfZT5kIo57oT7tJlJh0DyhU0e0=
+
+Name: classes.dex
+SHA1-Digest: /BOmE7x3N5zWuIiZTgeE89Q9SNA=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: IU4wcAQpIlfMKKq6p6xTzhZxRQ0=
+
