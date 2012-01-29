@@ -1,0 +1,15 @@
+This is the Scrollable Status Toggles Mod the Sammsung Epic 4G EL30 ROM
+
+It adds scrollable toggles to the status bar in place of the static stock
+toggles that come with Samsungs stock ROM. It is based on an excellent
+guide by xda-developers.com user lidroid for the Galaxy SII.
+
+Original Guide: http://forum.xda-developers.com/showthread.php?t=1289896
+Original Port: http://forum.xda-developers.com/showthread.php?t=1363011
+
+
+Credits:
+
+* lidroid - Original mod and guide for the Galaxy SII
+* SenseiSimple - Original port to the Epic (EI22).
+* toadlife - Data button fix, Wimax toggle button, fix for quickpanelsettings
